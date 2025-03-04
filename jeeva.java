@@ -19,11 +19,6 @@ class jeevajava {
 
          }
          System.out.print(Arrays.toString(arr));
-
-
-
-
-
     }
 }
 
